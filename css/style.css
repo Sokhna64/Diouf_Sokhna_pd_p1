@@ -1,0 +1,43 @@
+
+body{
+  background-color: rgb(202, 215, 216);
+}
+#section{
+    
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+   /* background-color:hsl(171, 35%, 93%);*/
+   border: 3px #686d6d double;
+
+}
+img{
+    padding-top: 10px;
+   border-radius: 50% / 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   height: 330px;
+   width: 400px;
+}
+ h1{
+    font-family: Georgia ;
+}
+p h1{
+    font-family: Garamond;
+    line-height: 25px; 
+}
+h2{
+    font-family: Georgia ;
+}
+p{
+    font-family: Garamond;
+    line-height: 25px;
+}
+ul li{
+    font-family: Garamond;
+    line-height: 25px; 
+}
